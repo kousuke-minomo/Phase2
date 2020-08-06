@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\km-ta_000\\source\\repos\\Phase2\\introduction.csproj",
+      "projectUniqueName": "D:\\Git\\Phase2\\Phase2\\introduction.csproj",
       "projectName": "introduction",
-      "projectPath": "C:\\Users\\km-ta_000\\source\\repos\\Phase2\\introduction.csproj",
+      "projectPath": "D:\\Git\\Phase2\\Phase2\\introduction.csproj",
       "packagesPath": "C:\\Users\\km-ta_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\km-ta_000\\source\\repos\\Phase2\\obj\\",
+      "outputPath": "D:\\Git\\Phase2\\Phase2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\km-ta_000\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -24,8 +24,6 @@ namespace WindowsFormsApp1
             LengthBar.Maximum = displayWidh;
             heightBar.Maximum = displayHeight;
         }
-
-
         private void movebar_Scroll(object sender, EventArgs e)
         {
             lblmoveValue.Text = movebar.Value.ToString();
